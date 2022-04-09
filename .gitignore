@@ -32,3 +32,17 @@
 /Cache
 cookie.dat
 latest.log
+Common/Snap.Core.DependencyInjection/
+Common/Snap.Core.Logging/
+Common/Snap.Core.Mvvm/
+Common/Snap.Data.Json/
+Common/Snap.Data.Primitive/
+Common/Snap.Data.Utility/
+Common/Snap.Extension.Enumerable/
+Common/Snap.Net.Afdian/
+Common/Snap.Net.Download/
+Common/Snap.Net.Networking/
+Common/Snap.Net.QueryString/
+Common/Snap.Reflection/
+Common/Snap.Threading/
+Common/Snap.Win32/
